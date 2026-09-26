@@ -1,23 +1,24 @@
-# Ritesh Pandey — AI & Backend Developer Portfolio
+# Ritesh Pandey — AI Software Engineer & Data Analyst Portfolio
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20Backend-Developer-c8f060?style=for-the-badge" alt="AI & Backend Developer">
+  <img src="https://img.shields.io/badge/AI%20Software-Engineer-c8f060?style=for-the-badge" alt="AI Software Engineer">
+  <img src="https://img.shields.io/badge/Data-Analyst-f0c060?style=for-the-badge" alt="Data Analyst">
   <img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Generative-AI-purple?style=for-the-badge" alt="Generative AI">
 </p>
 
 <p align="center">
   Personal portfolio website showcasing my experience, projects, technical skills,
-  certifications, and work in Artificial Intelligence and Backend Development.
+  certifications, and work spanning AI Engineering and Data Analytics.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Ritesh Pandey**, a Software Developer specializing in **Artificial Intelligence, Generative AI, Backend Development, RAG systems, and agentic workflows**.
+Hi, I'm **Ritesh Pandey**, an AI Software Engineer and Data Analyst based in Noida, India, specializing in **Generative AI, RAG systems, agentic workflows, and backend development**, with a parallel background in **SQL, Python data analysis, and Power BI reporting**.
 
-I enjoy designing and developing production-ready applications that combine intelligent AI systems with scalable backend architectures.
+I enjoy designing production-ready AI applications and backend services, and equally enjoy turning the data those systems produce into clear, actionable analysis.
 
 My current areas of focus include:
 
@@ -32,6 +33,7 @@ My current areas of focus include:
 - Backend Microservices
 - REST APIs
 - Vector Databases
+- Data Analysis & Power BI
 - CI/CD & Cloud Deployment
 
 ---
@@ -64,6 +66,7 @@ The portfolio highlights:
 - Optimized multimodal voice processing workflows.
 - Benchmarked LLMs and vector database retrieval strategies.
 - Optimized embedding and chunking strategies to improve semantic search precision and throughput.
+- Analyzed model evaluation data — accuracy, latency, throughput, and quality metrics — to compare configurations and support evaluation decisions.
 
 ### Opoyi Pvt. Ltd.
 **Backend Developer Intern**  
@@ -131,6 +134,50 @@ A full-stack AI interview platform that generates adaptive technical interview q
 
 ---
 
+### 3. Sales Performance and Executive Analytics Dashboard
+
+An interactive Power BI dashboard turning raw transactional sales data into an executive view of revenue, profit, and growth.
+
+**Technologies:**
+
+- Power BI
+- SQL
+- Python
+- Pandas
+- Excel
+- Power Query
+- DAX
+
+**Key Features:**
+
+- Data cleaning and transformation with Python/Pandas and Power Query
+- Star-schema data model
+- DAX measures for revenue, profit, orders, AOV, contribution, and growth KPIs
+- Interactive dashboard: monthly trends, regional performance, product/category analysis, profitability
+
+---
+
+### 4. Customer Churn and Retention Analytics
+
+An exploratory analysis and Power BI retention dashboard identifying churn patterns across customer segments.
+
+**Technologies:**
+
+- Python
+- Pandas
+- SQL
+- Power BI
+- DAX
+- Excel
+
+**Key Features:**
+
+- EDA across customer tenure, usage, plans, and support interactions
+- SQL/Pandas-based data cleaning and cohort-style retention analysis
+- Power BI dashboard: churn rate, retention rate, cohorts, segment comparisons, drill-through
+
+---
+
 ## 🛠️ Technical Skills
 
 ### Languages
@@ -154,6 +201,7 @@ A full-stack AI interview platform that generates adaptive technical interview q
 - YOLOv8
 - ArcFace / InsightFace
 - STT / TTS
+- Embeddings
 
 ### AI Frameworks
 
@@ -162,6 +210,17 @@ A full-stack AI interview platform that generates adaptive technical interview q
 - FastAPI
 - PyTorch
 - OpenCV
+
+### Data & Analytics
+
+- Pandas / NumPy
+- Microsoft Power BI
+- Power Query / DAX
+- Excel
+- Exploratory Data Analysis
+- Data Cleaning & Validation
+- Data Modeling / ETL
+- KPI Reporting & Dashboarding
 
 ### Backend & Web
 
@@ -193,6 +252,7 @@ A full-stack AI interview platform that generates adaptive technical interview q
 - GitHub
 - Linux
 - CUDA
+- Jupyter Notebook
 
 ---
 
@@ -211,7 +271,7 @@ A full-stack AI interview platform that generates adaptive technical interview q
 **Master of Computer Applications (MCA)**  
 `2024 – 2026`
 
-Chandigarh, India
+Mohali, Punjab, India
 
 ---
 
@@ -248,11 +308,20 @@ Visit my portfolio:
 
 ## 📫 Connect With Me
 
+- **Location:** Noida, India
 - **Email:** ritesh2897pandey@gmail.com
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/)
-- **GitHub:** [github.com](https://github.com/)
+- **Phone:** +91-7223060644
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/ritesh-pandey-59a088233/)
+- **GitHub:** [github.com/Ritesh22p1401b](https://github.com/Ritesh22p1401b)
 
-> Replace the LinkedIn and GitHub links with your actual profile URLs.
+## 📄 Resume
+
+Two role-specific resumes are linked from the site's Contact section:
+
+- `resume/ritesh-pandey-ai-software-engineer.pdf`
+- `resume/ritesh-pandey-data-analyst.pdf`
+
+> Add your actual resume PDFs at these paths for the download links on the site to work.
 
 ---
 
